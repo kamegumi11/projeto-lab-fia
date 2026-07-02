@@ -9,6 +9,8 @@ Machine Learning e Deep Learning.
 
 Competição Kaggle Home Credit Default Risk.
 
+https://www.kaggle.com/c/home-credit-default-risk
+
 ## Tecnologias
 
 - Python
